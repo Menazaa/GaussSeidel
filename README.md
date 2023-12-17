@@ -28,7 +28,7 @@ To use the code, follow these steps:
 
 ## Output
 
-![Image Alt Text](Screen_Shots/Results.png)
+![Image Alt Text](Screen_Shots/Output.png)
 
 1. Open MATLAB.
 2. Run the `Gauss_Seidel` function.
