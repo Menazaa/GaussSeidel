@@ -34,4 +34,4 @@ To use the code, follow these steps:
 2. Run the `Gauss_Seidel` function.
 
 ```matlab
-function Gauss_Seidel()
+Gauss_Seidel()
